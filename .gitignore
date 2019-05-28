@@ -1,3 +1,7 @@
-# Ignore these files...
-.sfdx/*
-.DS_Store
+**/__MACOSX
+**/.DS_Store
+**/.eslintrc.json
+**/jsconfig.json
+.sfdx
+.vscode
+src-solutions*
